@@ -14,4 +14,4 @@ e.g. user guesses 'a. What's displayed is: -a-, followed by a prompt for the nex
 If the user guesses the word, they win and the game terminates.
 If they loose all lives before the game finishes, they build the hung man, lose the game, and the correct world is revealed. The game then terminates. 
 
-This game is one of the project from the Udemy course 100 Days Of Python Programming with Angela Yu.
+This game is one of the projects from the Udemy course 100 Days Of Python Programming with Angela Yu.
