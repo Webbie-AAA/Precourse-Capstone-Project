@@ -3,7 +3,7 @@ The user must try and guess the word one letter at a time.
 The user loses a life every time they guess a letter not in the word.
 There are a total of 6 lives. 
 
-First the program displays an underscore for every letter, e.g. for cat _ _ _
+First the program displays an underscore for every letter, e.g. for cat _ _ _.
 There's a prompt for the user to choose their first letter.
 
 For every wrong letter the user completes the image of the hung man. The progress is dsiplayed as well as an indication of how many lives remain.
